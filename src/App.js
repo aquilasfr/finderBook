@@ -1,4 +1,4 @@
-import InputBook from './components/InputBook';
+import InputBook from './components/Input/InputBook';
 import './App.css';
 
 function App() {
