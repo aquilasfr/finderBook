@@ -3,7 +3,9 @@ import './App.css';
 
 function App() {
   return (
-    <InputBook/>
+    <div>
+      <InputBook/>
+    </div>
   );
 }
 
